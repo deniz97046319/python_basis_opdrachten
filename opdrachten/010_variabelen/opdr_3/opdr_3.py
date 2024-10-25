@@ -4,6 +4,6 @@
 
 # Hier komt je code...
 
-my_dict = ...
+my_dict = "Naam = Willem", "Achternaam = van der Broek", "leeftijd = 23", "favoriete kleur: Blauw"
 
-print()
+print (my_dict)
